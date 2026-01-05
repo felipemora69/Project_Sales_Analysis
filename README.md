@@ -53,10 +53,6 @@ The analysis includes:
 **Results & Business Impact**
 
 This analysis helps retail teams:
-- Optimize inventory based on demand patterns
-- Improve targeting and promotional strategies
-- Identify high‑value customer segments
-- Strengthen sales forecasting
-- Focus on products and channels that drive the most revenue
-
-
+- Seasonality: Monthly sales show peaks in March, and from May to July. Plan inventory and marketing campaigns accordingly.
+- Top Products: Beer, Wine, and Liquor account for roughly 66%, 19%, and 13% of total revenue, respectively. Focus promotions, inventory, and merchandising on these categories.
+- KPIs: Average sale per record is $40.96, top suppliers Crown Imports and Anheuser Busch Inc contribute the majority of revenue → build strategic relationships with high-performing suppliers.
